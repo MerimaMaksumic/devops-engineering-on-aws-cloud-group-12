@@ -3,8 +3,6 @@
 ## Group Members
 - Elma Sarrajlić
 - Merima Maksumić
-- Member 3
-- Member 4
 
 ## Description
 [This project demonstrates a proof of concept (POC) to host a student records web application in the AWS Cloud. The objective is to improve the experience for users by ensuring the application is highly available, scalable, load balanced, secure, and high performing.]
