@@ -21,6 +21,7 @@ The project is organized into the following structure:
     - Images of diagrams (Phase 2 diagram, Phase 3 diagram, Phase 4-final diagram)
     - Cost estimated file
     - Documentation file
+    - Presentation file
 3. **Helper Scripts**
     - Three recommended scripts to use on AWS Lab Instructions: Building a Highly Available, Scalable Web Application  (cloud9-scripts, UserdataScript-phase-2, UserdataScript-phase-3)
 4. **README.md file**
