@@ -18,7 +18,7 @@ The project is organized into the following structure:
     - **package-lock.json file**
     - **package.json file**
 2. **Docs**
-    - Images of diagrams (Phase 2 diagram, Phase 3 diagram, Phase 4-final diagram)
+    - Images of diagrams (Phase 2 diagram, Phase 3 diagram, Phase 4-final diagram), images used in documentation.md 
     - Cost estimated file
     - Documentation file
     - Presentation file
